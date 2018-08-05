@@ -1,0 +1,19 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  }
+
+.title-container {
+  margin: 0 auto;
+  width: 80%;
+  padding: 10px;
+}
+
+.title {
+  font-size: 90px;
+  text-align: center;
+}
+
+.title-alt {
+  font-size: 85px;
+  color: #16a085;
+}
